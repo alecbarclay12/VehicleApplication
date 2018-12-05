@@ -1,0 +1,15 @@
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\bin\Debug\VehicleRentalapp.exe.config
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\bin\Debug\VehicleRentalapp.exe
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\bin\Debug\VehicleRentalapp.pdb
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\MainWindow.g.cs
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\App.g.cs
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp_MarkupCompile.cache
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp_MarkupCompile.lref
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\MainWindow.baml
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp.g.resources
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp.Properties.Resources.resources
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp.csproj.GenerateResource.Cache
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp.csproj.CoreCompileInputs.cache
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp.exe
+c:\users\alec barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp.pdb
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\VehicleRentalapp\obj\Debug\VehicleRentalapp.csprojAssemblyReference.cache

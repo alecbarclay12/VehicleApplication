@@ -1,0 +1,17 @@
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\obj\Debug\RentalSystemUnitTest.csprojAssemblyReference.cache
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\obj\Debug\RentalSystemUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\RentalSystemUnitTest.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\RentalSystemUnitTest.pdb
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\VehicleRentalapp.exe
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\VehicleRentalapp.pdb
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\VehicleRentalapp.exe.config
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\obj\Debug\RentalSystemUnitTest.csproj.CopyComplete
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\obj\Debug\RentalSystemUnitTest.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\RentalSystemUnitTest\obj\Debug\RentalSystemUnitTest.pdb

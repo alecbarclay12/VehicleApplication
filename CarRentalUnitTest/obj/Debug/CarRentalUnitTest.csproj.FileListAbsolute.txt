@@ -1,0 +1,14 @@
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\CarRentalUnitTest.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\CarRentalUnitTest.pdb
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.csprojAssemblyReference.cache
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.csproj.CopyComplete
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.dll
+C:\Users\Alec Barclay\source\repos\VehicleRentalapp\CarRentalUnitTest\obj\Debug\CarRentalUnitTest.pdb
